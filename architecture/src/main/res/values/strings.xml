@@ -1,0 +1,4 @@
+<resources>
+    <string name="module_name">architecture</string>
+    <string name="perm_err_info">"取消该权限可能导致您的应用无法正常运行"</string>
+</resources>
